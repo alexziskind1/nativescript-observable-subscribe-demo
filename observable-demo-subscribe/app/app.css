@@ -1,0 +1,29 @@
+﻿.title {
+    font-size: 30;
+    horizontal-align: center;
+    margin:20;
+}
+
+button {
+    font-size: 42;
+    horizontal-align: center;
+}
+
+.message {
+    font-size: 20;
+    color: #284848;
+    horizontal-align: center;
+}
+
+.switchwrapper {
+    horizontal-align: left;
+}
+
+.switch {
+    horizontal-align: right;
+    margin: 20 20 20 20;
+}
+
+.switchlabel {
+    margin: 20 20 20 20;
+}
